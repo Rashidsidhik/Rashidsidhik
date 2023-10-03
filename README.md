@@ -1,4 +1,4 @@
-### Hi there 👋, My Name is **Riyas Iqbal**
+### Hi there 👋, My Name is **Rashid Sidhik**
     
 <img src='https://komarev.com/ghpvc/?username=Rashidsidhik&color=green' align='right' style='border: solid green 10px'/>
 <h3>
