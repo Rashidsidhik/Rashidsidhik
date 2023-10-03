@@ -1,6 +1,6 @@
 ### Hi there 👋, My Name is **Riyas Iqbal**
     
-<img src='https://komarev.com/ghpvc/?username=Riyas-iqbal&color=green' align='right' style='border: solid green 10px'/>
+<img src='https://komarev.com/ghpvc/?username=Rashidsidhik&color=green' align='right' style='border: solid green 10px'/>
 <h3>
 <a href="https://riyas-iqbal.netlify.app">Portfolio</a>
 </h3>
