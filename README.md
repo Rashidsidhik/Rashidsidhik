@@ -53,6 +53,6 @@ Self-taught developer with a passion for exploring the ever-evolving realm of te
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/Rashidsidhik/Weather-app">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Rashidsidhik&repo=User-management-system&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Rashidsidhik&repo=Weather-app&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 </p>
