@@ -1,15 +1,58 @@
+### Hi there 👋, My Name is **Riyas Iqbal**
+    
+<img src='https://komarev.com/ghpvc/?username=Riyas-iqbal&color=green' align='right' style='border: solid green 10px'/>
+<h3>
+<a href="https://riyas-iqbal.netlify.app">Portfolio</a>
+</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashidsidhik/) 
+<!-- [Portfolio](https://riyas-iqbal.netlify.app) -->
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rashidsidhik&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rashidsidhik&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashidsidhik&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+Self-taught developer with a passion for exploring the ever-evolving realm of technology. I enjoy delving into new and exciting projects that challenge my skills and push me to learn more. I am constantly experimenting with new technologies to stay up-to-date with industry trends and developments, and I am always eager to take on new challenges and opportunities to grow as a developer.
 
----
-[![](https://visitcount.itsvg.in/api?id=Rashidsidhik&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,js,ts,html,css,express,figma,firebase,git,github,linux,md,netlify,react,redux,nextjs,vite,vscode,postman,babel,webpack,bootstrap,tailwind,cloudflare,vim,aws" />
+  </a>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src='https://live.staticflickr.com/65535/52946924761_e71af25781_o.png' style='border: solid green 10px' />
+
+
+<!-- [Node.js Developer](https://live.staticflickr.com/65535/52946924761_e71af25781_o.png) -->
+- 🔭 I’m currently working on [Theora](https://github.com/Riyas-iqbal/Theora) Educational Platform
+- 🌱 I’m currently learning Typescript and Clean Architeture
+- 👯 I’m looking to collaborate on JavaScript, React, ..etc
+- 💬 Ask me about anything😂
+- 📫 Reach me [@riyasiqbal](mailto:riyasiqbal10@gmail.com)
+- ⚡ Fun fact I can code continuously more than I sleep
+
+<span>&nbsp;</span>
+
+<div style="display: flex; justify-content: space-around;" align='center'>
+  <img src="https://github-readme-stats.vercel.app/api?username=Riyas-iqbal&show_icons=true&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" alt="GitHub stats">
+  <img src="https://streak-stats.demolab.com?user=Riyas-iqbal&theme=gotham&border=25B368" alt="GitHub streak stats">
+</div>
+
+<span>&nbsp;</span>
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riyas-iqbal&layout=compact) -->
+
+  <p align="center">
+<a href="https://github.com/Riyas-iqbal/theora">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Riyas-iqbal&repo=theora&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/Riyas-iqbal/express-boilerplate">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Riyas-iqbal&repo=express-boilerplate&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/Riyas-iqbal/NextGen-Store">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Riyas-iqbal&repo=NextGen-Store&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/Riyas-iqbal/User-management-system">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Riyas-iqbal&repo=User-management-system&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+</p>
