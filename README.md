@@ -15,7 +15,7 @@ Self-taught developer with a passion for exploring the ever-evolving realm of te
   </a>
 </p>
 
-<img src='https://live.staticflickr.com/65535/52946924761_e71af25781_o.png' style='border: solid green 10px' />
+<img src='https://media.licdn.com/dms/image/D5616AQFXNzYKRb1wkg/profile-displaybackgroundimage-shrink_350_1400/0/1680864670027?e=1701907200&v=beta&t=eHEOMQ_-iZ7iBN9agsi4Zqp3GL0PVFeTbHolj0nuTzo' style='border: solid green 10px' />
 
 
 <!-- [Node.js Developer](https://live.staticflickr.com/65535/52946924761_e71af25781_o.png) -->
