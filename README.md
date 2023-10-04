@@ -48,8 +48,8 @@ Self-taught developer with a passion for exploring the ever-evolving realm of te
 </p>
 
 <p align="center">
-<a href="https://github.com/Rashidsidhik/NextGen-Store">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Rashidsidhik&repo=NextGen-Store&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/Rashidsidhik/Rashidsidhik/User-management-system-in-React">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Rashidsidhik&repo=Rashidsidhik/User-management-system-in-React&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/Rashidsidhik/Weather-app">
