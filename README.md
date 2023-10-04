@@ -42,8 +42,8 @@ Self-taught developer with a passion for exploring the ever-evolving realm of te
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Rashidsidhik&repo=theora&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
-<a href="https://github.com/Rashidsidhik/express-boilerplate">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Rashidsidhik&repo=express-boilerplate&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/Rashidsidhik/Shoemaze">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Rashidsidhik&repo=Shoemaze&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 </p>
 
