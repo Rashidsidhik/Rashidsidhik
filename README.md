@@ -38,8 +38,8 @@ Self-taught developer with a passion for exploring the ever-evolving realm of te
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashidsidhik&layout=compact) -->
 
   <p align="center">
-<a href="https://github.com/Rashidsidhik/theora">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Rashidsidhik&repo=theora&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/Rashidsidhik/MovieTicket">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Rashidsidhik&repo=MovieTicket&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/Rashidsidhik/Shoemaze">
